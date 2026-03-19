@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# System
+.DS_Store
+
+# Node
+node_modules
+
+# Logs
+logs
+*.log
